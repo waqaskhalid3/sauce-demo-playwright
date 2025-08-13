@@ -3,7 +3,6 @@ const { logMessage, screenshotAction } = require('../utils/helpers');
 const testData = require('../data/testData.json');
 const asserts = require('../data/asserts.json');
 
-// Page Objects
 const LoginPage = require('../pages/login.page');
 const ProductsPage = require('../pages/products.page');
 const CheckoutPage = require('../pages/checkout.page');
