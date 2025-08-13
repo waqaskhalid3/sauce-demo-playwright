@@ -1,4 +1,20 @@
+# Dependency directories
 node_modules/
-test-results/
+
+# Playwright-specific
 playwright/.cache/
+playwright/.config/
+
+# Environment files
+.env
+.env.local
 *.env
+
+# Sensitive files
+*.key
+*.pem
+
+# OS/IDE files
+.DS_Store
+.idea/
+.vscode/
