@@ -17,4 +17,4 @@ playwright/.config/
 # OS/IDE files
 .DS_Store
 .idea/
-.vscode/
+.vscode/node_modules/
