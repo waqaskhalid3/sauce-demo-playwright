@@ -1,0 +1,6 @@
+{
+    "inventoryItems": ".inventory_item",
+    "addToCartButtons": "button.btn_inventory",
+    "cartBadge": ".shopping_cart_badge",
+    "cartLink": ".shopping_cart_link"
+}

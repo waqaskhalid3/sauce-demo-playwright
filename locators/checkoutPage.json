@@ -1,0 +1,11 @@
+{
+  "checkoutButton": "#checkout",
+  "cartItem": ".cart_item",
+  "firstName": "#first-name",
+  "lastName": "#last-name",
+  "postalCode": "#postal-code",
+  "continueButton": "#continue",
+  "summaryTotalLabel": ".summary_total_label",
+  "finishButton": "#finish",
+  "confirmationHeader": ".complete-header"
+}

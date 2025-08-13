@@ -1,0 +1,11 @@
+{
+  "titles": {
+    "loginPage": "Swag Labs"
+  },
+  "headers": {
+    "inventoryList": ".inventory_list",
+    "orderConfirmation": "Thank you for your order!"
+  },
+  "cartBadgeCount": "3",
+  "checkoutSummaryContains": "$"
+}

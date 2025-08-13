@@ -1,0 +1,15 @@
+[2025-08-13 23:07:14] [Chromium] Test started: Sauce Demo checkout flow
+[2025-08-13 23:07:15] [WebKit] Test started: Sauce Demo checkout flow
+[2025-08-13 23:07:16] [Firefox] Test started: Sauce Demo checkout flow
+[2025-08-13 23:07:16] [WebKit] Logged in successfully
+[2025-08-13 23:07:17] [WebKit] Added 3 items to cart
+[2025-08-13 23:07:17] [WebKit] Confirmation message: Thank you for your order!
+[2025-08-13 23:07:17] [WebKit] Test completed successfully
+[2025-08-13 23:07:17] [Chromium] Logged in successfully
+[2025-08-13 23:07:17] [Chromium] Added 3 items to cart
+[2025-08-13 23:07:18] [Chromium] Confirmation message: Thank you for your order!
+[2025-08-13 23:07:18] [Chromium] Test completed successfully
+[2025-08-13 23:07:18] [Firefox] Logged in successfully
+[2025-08-13 23:07:18] [Firefox] Added 3 items to cart
+[2025-08-13 23:07:18] [Firefox] Confirmation message: Thank you for your order!
+[2025-08-13 23:07:18] [Firefox] Test completed successfully
